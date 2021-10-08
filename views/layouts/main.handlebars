@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Tech Blog</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.1/css/bootstrap.min.css" integrity="sha512-6KY5s6UI5J7SVYuZB4S/CZMyPylqyyNZco376NM2Z8Sb8OxEdp02e1jkKk/wZxIEmjQ6DRCEBhni+gpr9c4tvA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="/public/stylesheets/style.css">
+</head>
+
+<body>
+  <div class="">
+    <header class="header w-auto">
+      <nav class="display-flex justifyce-space-around navbar navbar-expand-lg p-2">
+        <a href="/#"><button>Home</button></a>
+        {{#if loggedIn}}
+        <a href="/dashboard"><button>Dashboard</button></a>
+        <button id="logout" class="btn-no-style">Logout</button>
+        {{else}}
+        <a href="/login"><button>Login</button></a>
+        {{/if}}
+      </nav>
+      <h1 class="pageTitle">
+        <a href="/" class="bg-white rounded text-dark p-1 text-decoration-none">The Tech Blog</a>
+      </h1>
+    </header>
+    <main>
+      {{{ body }}}
+    </main>
+  </div>
+{{#if loggedIn}}
+<script src="/javascript/logout.js"></script>
+{{/if}}
+</body>
+
+</html>
