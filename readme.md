@@ -46,6 +46,43 @@ http://localhost:3001/
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://tranquil-fortress-39939.herokuapp.com/)
 <br><br>
 
+## Images
+
+1. The Home page, displaying past comments: 
+
+![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.25.22%20AM.png)
+
+2. The login page:
+
+![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.25.46%20AM.png)
+
+3. The dashboard page where we can write a new post
+
+![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.31.19%20AM.png)
+
+4. Creating a new post:
+
+![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.31.41%20AM.png)
+
+5. Created post:
+
+![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.31.46%20AM.png)
+
+6. Editing the new post:
+
+![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.31.55%20AM.png)
+
+7. Posted edited post:
+
+![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.32.00%20AM.png)
+
+8. Deleted new post:
+
+![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.32.16%20AM.png)
+
+9. Logged Out:
+
+![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.25.22%20AM.png)
 
 
 
