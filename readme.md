@@ -13,6 +13,12 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions.
 * MVC
 * Bootstrap CSS
 
+# Table of Contents:
+* [Installation](#installation)
+* [Images](#images)
+* [License](#license)
+* [Questions](#questions)
+
 
 ## Installation
 
@@ -84,8 +90,20 @@ http://localhost:3001/
 
 ![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.25.22%20AM.png)
 
+<br>
+
 
 
 
 ## License
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+
+<br>
+<br>
+
+## Questions
+For any questions, please feel free to reach out to me at the following:
+
+Github: https://github.com/umairali-bit
+
+Email: umairmamoor@gmail.com
