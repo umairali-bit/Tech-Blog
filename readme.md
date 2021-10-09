@@ -56,7 +56,7 @@ http://localhost:3001/
 
 ![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.25.46%20AM.png)
 
-3. The dashboard page where we can write a new post
+3. The dashboard page where we can write a new post:
 
 ![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.31.19%20AM.png)
 
@@ -72,7 +72,7 @@ http://localhost:3001/
 
 ![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.31.55%20AM.png)
 
-7. Posted edited post:
+7. Posting edited post:
 
 ![Screen shot](/images/Screen%20Shot%202021-10-09%20at%209.32.00%20AM.png)
 
@@ -88,4 +88,4 @@ http://localhost:3001/
 
 
 ## License
-Made with :sparkling_heart:
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
